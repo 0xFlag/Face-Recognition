@@ -1,6 +1,6 @@
 # Face-Recognition_opencv_haar
 </br>
-编程语言：Python3</br>
+编程语言: Python3</br>
 编程模块: OpenCV(4.1.1) numpy(1.17.1) PIL(pillow6.1.0)</br>
 </br>
 FaceRecognition.py         单张图片人脸识别</br>
