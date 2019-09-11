@@ -3,10 +3,10 @@
 编程语言: Python3</br>
 编程模块: OpenCV(4.1.1) numpy(1.17.1) PIL(pillow6.1.0)</br>
 </br>
-FaceRecognition.py         单张图片人脸识别</br>
-FaceRecognitionBatch.py    批量图片人脸识别</br>
-FaceRecognitionDetector.py 通过训练文件人脸识别标签</br>
-FaceRecognitionTraining.py 人脸识别训练</br>
+Face-Recognition_opencv_haar.py          单张图片人脸识别</br>
+Face-Recognition_opencv_haar_Batch.py    批量图片人脸识别</br>
+Face-Recognition_opencv_haar_Detector.py 通过训练文件人脸识别标签</br>
+Face-Recognition_opencv_haar_Training.py 人脸识别训练</br>
 </br>
 Classifiers 存放OpenCV官方识别人脸XML文件</br>
 dataimg     存放识别后完整图片</br>
