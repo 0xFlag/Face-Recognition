@@ -12,6 +12,9 @@ models 识别模型</br>
 testimg 识别后图片</br>
 Face-Recognition_opencv_dnn_1.py 识别代码_1</br>
 Face-Recognition_opencv_dnn_2.py 识别代码_2</br>
+sample code.txt:</br>
+模型加载代码示例</br>
+检测测试代码示例</br>
 </br>
 OpenCV DNN 提供了两个模型:</br>
 1.原始Caffe实现的16位浮点型版本</br>
