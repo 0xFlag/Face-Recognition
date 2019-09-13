@@ -14,6 +14,7 @@ faceimg     存放脸部图片</br>
 testimg     存放需要检测图片的文件</br>
 trainer     存放训练后生成的yml文件</br>
 </br>
+识别模型:</br>
 haarcascade_frontalface_default.xml</br>
 haarcascade_frontalface_alt.xml</br>
 haarcascade_frontalface_alt2.xml</br>
