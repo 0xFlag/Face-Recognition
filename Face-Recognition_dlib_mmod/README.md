@@ -21,4 +21,7 @@ Face-Recognition_dlib_mmod.py</br>
 3.人脸包围框甚至小于DLib HoG人脸检测器</br>
 </br>
 吐槽:</br>
-建议不要使用这种方法人脸识别，识别甚至比DLib HoG差
+建议不要使用这种方法人脸识别，识别甚至比DLib HoG差</br>
+</br>
+参考:</br>
+http://dlib.net/files/</br>
