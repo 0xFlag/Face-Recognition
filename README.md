@@ -7,3 +7,4 @@ Face-Recognition_dlib_hog</br>
 </br>
 参考:</br>
 https://www.learnopencv.com/face-detection-opencv-dlib-and-deep-learning-c-python/</br>
+https://github.com/berli/FaceDetectionComparison</br>
